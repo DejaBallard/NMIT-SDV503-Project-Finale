@@ -1,0 +1,72 @@
+C:\Users\deja9\AppData\Local\Temporary Projects\Clicker Prototype 1\bin\Debug\Clicker Prototype 1.exe.config
+C:\Users\deja9\AppData\Local\Temporary Projects\Clicker Prototype 1\bin\Debug\Clicker Prototype 1.exe
+C:\Users\deja9\AppData\Local\Temporary Projects\Clicker Prototype 1\bin\Debug\Clicker Prototype 1.pdb
+C:\Users\deja9\AppData\Local\Temporary Projects\Clicker Prototype 1\bin\Debug\Clicker Prototype 1.xml
+C:\Users\deja9\AppData\Local\Temporary Projects\Clicker Prototype 1\obj\Debug\Clicker Prototype 1.vbprojResolveAssemblyReference.cache
+C:\Users\deja9\AppData\Local\Temporary Projects\Clicker Prototype 1\obj\Debug\Clicker_Prototype_1.FrmMain.resources
+C:\Users\deja9\AppData\Local\Temporary Projects\Clicker Prototype 1\obj\Debug\Clicker_Prototype_1.Resources.resources
+C:\Users\deja9\AppData\Local\Temporary Projects\Clicker Prototype 1\obj\Debug\Clicker Prototype 1.vbproj.GenerateResource.Cache
+C:\Users\deja9\AppData\Local\Temporary Projects\Clicker Prototype 1\obj\Debug\Clicker Prototype 1.exe
+C:\Users\deja9\AppData\Local\Temporary Projects\Clicker Prototype 1\obj\Debug\Clicker Prototype 1.xml
+C:\Users\deja9\AppData\Local\Temporary Projects\Clicker Prototype 1\obj\Debug\Clicker Prototype 1.pdb
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\Clicker Prototype 1\Clicker Prototype 1\bin\Debug\Clicker Prototype 1.exe.config
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\Clicker Prototype 1\Clicker Prototype 1\obj\Debug\Clicker Prototype 1.exe
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\Clicker Prototype 1\Clicker Prototype 1\obj\Debug\Clicker Prototype 1.xml
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\Clicker Prototype 1\Clicker Prototype 1\obj\Debug\Clicker Prototype 1.pdb
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\Clicker Prototype 1\Clicker Prototype 1\bin\Debug\Clicker Prototype 1.exe
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\Clicker Prototype 1\Clicker Prototype 1\bin\Debug\Clicker Prototype 1.pdb
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\Clicker Prototype 1\Clicker Prototype 1\bin\Debug\Clicker Prototype 1.xml
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\Clicker Prototype 1\Clicker Prototype 1\obj\Debug\Clicker Prototype 1.vbprojResolveAssemblyReference.cache
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\Clicker Prototype 1\Clicker Prototype 1\obj\Debug\Clicker_Prototype_1.FrmMain.resources
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\Clicker Prototype 1\Clicker Prototype 1\obj\Debug\Clicker_Prototype_1.Resources.resources
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\Clicker Prototype 1\Clicker Prototype 1\obj\Debug\Clicker Prototype 1.vbproj.GenerateResource.Cache
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\SDV 503 - Assessment 3 -Prototype 1 by Deja Ballard\Clicker Prototype 1\bin\Debug\Clicker Prototype 1.exe.config
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\SDV 503 - Assessment 3 -Prototype 1 by Deja Ballard\Clicker Prototype 1\obj\Debug\Clicker Prototype 1.exe
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\SDV 503 - Assessment 3 -Prototype 1 by Deja Ballard\Clicker Prototype 1\obj\Debug\Clicker Prototype 1.xml
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\SDV 503 - Assessment 3 -Prototype 1 by Deja Ballard\Clicker Prototype 1\obj\Debug\Clicker Prototype 1.pdb
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\SDV 503 - Assessment 3 -Prototype 1 by Deja Ballard\Clicker Prototype 1\bin\Debug\Clicker Prototype 1.exe
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\SDV 503 - Assessment 3 -Prototype 1 by Deja Ballard\Clicker Prototype 1\bin\Debug\Clicker Prototype 1.pdb
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\SDV 503 - Assessment 3 -Prototype 1 by Deja Ballard\Clicker Prototype 1\bin\Debug\Clicker Prototype 1.xml
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\SDV 503 - Assessment 3 -Prototype 1 by Deja Ballard\Clicker Prototype 1\obj\Debug\Clicker Prototype 1.vbprojResolveAssemblyReference.cache
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\SDV 503 - Assessment 3 -Prototype 1 by Deja Ballard\Clicker Prototype 1\obj\Debug\Clicker_Prototype_1.FrmMain.resources
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\SDV 503 - Assessment 3 -Prototype 1 by Deja Ballard\Clicker Prototype 1\obj\Debug\Clicker_Prototype_1.Resources.resources
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\SDV 503 - Assessment 3 -Prototype 1 by Deja Ballard\Clicker Prototype 1\obj\Debug\Clicker Prototype 1.vbproj.GenerateResource.Cache
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\SDV 503 - Assessment 3 -Prototype 2 by Deja Ballard\Clicker Prototype 1\bin\Debug\Clicker Prototype 1.exe.config
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\SDV 503 - Assessment 3 -Prototype 2 by Deja Ballard\Clicker Prototype 1\obj\Debug\Clicker Prototype 1.exe
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\SDV 503 - Assessment 3 -Prototype 2 by Deja Ballard\Clicker Prototype 1\obj\Debug\Clicker Prototype 1.xml
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\SDV 503 - Assessment 3 -Prototype 2 by Deja Ballard\Clicker Prototype 1\obj\Debug\Clicker Prototype 1.pdb
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\SDV 503 - Assessment 3 -Prototype 2 by Deja Ballard\Clicker Prototype 1\bin\Debug\Clicker Prototype 1.exe
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\SDV 503 - Assessment 3 -Prototype 2 by Deja Ballard\Clicker Prototype 1\bin\Debug\Clicker Prototype 1.pdb
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\SDV 503 - Assessment 3 -Prototype 2 by Deja Ballard\Clicker Prototype 1\bin\Debug\Clicker Prototype 1.xml
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\SDV 503 - Assessment 3 -Prototype 2 by Deja Ballard\Clicker Prototype 1\obj\Debug\Clicker Prototype 1.vbprojResolveAssemblyReference.cache
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\SDV 503 - Assessment 3 -Prototype 2 by Deja Ballard\Clicker Prototype 1\obj\Debug\Clicker_Prototype_1.FrmMain.resources
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\SDV 503 - Assessment 3 -Prototype 2 by Deja Ballard\Clicker Prototype 1\obj\Debug\Clicker_Prototype_1.Resources.resources
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\SDV 503 - Assessment 3 -Prototype 2 by Deja Ballard\Clicker Prototype 1\obj\Debug\Clicker Prototype 1.vbproj.GenerateResource.Cache
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\SDV 503 - Assessment 3 -Prototype 2 by Deja Ballard\Clicker Prototype 1\obj\Debug\Clicker_Prototype_1.FrmSettings.resources
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\SDV 503 - Assessment 3 -Prototype 2 by Deja Ballard\Clicker Prototype 1\obj\Debug\Clicker_Prototype_1.FrmEnemy.resources
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\SDV 503 - Assessment 3 -Final Product by Deja Ballard\Clicker Prototype 1\bin\Debug\Clicker Prototype 1.exe.config
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\SDV 503 - Assessment 3 -Final Product by Deja Ballard\Clicker Prototype 1\obj\Debug\Clicker Prototype 1.exe
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\SDV 503 - Assessment 3 -Final Product by Deja Ballard\Clicker Prototype 1\obj\Debug\Clicker Prototype 1.xml
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\SDV 503 - Assessment 3 -Final Product by Deja Ballard\Clicker Prototype 1\obj\Debug\Clicker Prototype 1.pdb
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\SDV 503 - Assessment 3 -Final Product by Deja Ballard\Clicker Prototype 1\bin\Debug\Clicker Prototype 1.exe
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\SDV 503 - Assessment 3 -Final Product by Deja Ballard\Clicker Prototype 1\bin\Debug\Clicker Prototype 1.pdb
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\SDV 503 - Assessment 3 -Final Product by Deja Ballard\Clicker Prototype 1\bin\Debug\Clicker Prototype 1.xml
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\SDV 503 - Assessment 3 -Final Product by Deja Ballard\Clicker Prototype 1\obj\Debug\Clicker Prototype 1.vbprojResolveAssemblyReference.cache
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\SDV 503 - Assessment 3 -Final Product by Deja Ballard\Clicker Prototype 1\obj\Debug\Clicker_Prototype_1.FrmEnemy.resources
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\SDV 503 - Assessment 3 -Final Product by Deja Ballard\Clicker Prototype 1\obj\Debug\Clicker_Prototype_1.FrmMain.resources
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\SDV 503 - Assessment 3 -Final Product by Deja Ballard\Clicker Prototype 1\obj\Debug\Clicker_Prototype_1.FrmSettings.resources
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\SDV 503 - Assessment 3 -Final Product by Deja Ballard\Clicker Prototype 1\obj\Debug\Clicker_Prototype_1.Resources.resources
+C:\Users\deja9\OneDrive\BiT files\Semester One\SDV 503\SDV 503 - Assessment 3 -Final Product by Deja Ballard\Clicker Prototype 1\obj\Debug\Clicker Prototype 1.vbproj.GenerateResource.Cache
+C:\Users\deja9\OneDrive\BiT files\Year One\Semester One\SDV 503\SDV 503 - Assessment 3 -Final Product by Deja Ballard\Clicker Prototype 1\bin\Debug\Clicker Prototype 1.exe.config
+C:\Users\deja9\OneDrive\BiT files\Year One\Semester One\SDV 503\SDV 503 - Assessment 3 -Final Product by Deja Ballard\Clicker Prototype 1\obj\Debug\Clicker Prototype 1.exe
+C:\Users\deja9\OneDrive\BiT files\Year One\Semester One\SDV 503\SDV 503 - Assessment 3 -Final Product by Deja Ballard\Clicker Prototype 1\obj\Debug\Clicker Prototype 1.xml
+C:\Users\deja9\OneDrive\BiT files\Year One\Semester One\SDV 503\SDV 503 - Assessment 3 -Final Product by Deja Ballard\Clicker Prototype 1\obj\Debug\Clicker Prototype 1.pdb
+C:\Users\deja9\OneDrive\BiT files\Year One\Semester One\SDV 503\SDV 503 - Assessment 3 -Final Product by Deja Ballard\Clicker Prototype 1\bin\Debug\Clicker Prototype 1.exe
+C:\Users\deja9\OneDrive\BiT files\Year One\Semester One\SDV 503\SDV 503 - Assessment 3 -Final Product by Deja Ballard\Clicker Prototype 1\bin\Debug\Clicker Prototype 1.pdb
+C:\Users\deja9\OneDrive\BiT files\Year One\Semester One\SDV 503\SDV 503 - Assessment 3 -Final Product by Deja Ballard\Clicker Prototype 1\bin\Debug\Clicker Prototype 1.xml
+C:\Users\deja9\OneDrive\BiT files\Year One\Semester One\SDV 503\SDV 503 - Assessment 3 -Final Product by Deja Ballard\Clicker Prototype 1\obj\Debug\Clicker Prototype 1.vbprojResolveAssemblyReference.cache
+C:\Users\deja9\OneDrive\BiT files\Year One\Semester One\SDV 503\SDV 503 - Assessment 3 -Final Product by Deja Ballard\Clicker Prototype 1\obj\Debug\Clicker_Prototype_1.FrmEnemy.resources
+C:\Users\deja9\OneDrive\BiT files\Year One\Semester One\SDV 503\SDV 503 - Assessment 3 -Final Product by Deja Ballard\Clicker Prototype 1\obj\Debug\Clicker_Prototype_1.FrmMain.resources
+C:\Users\deja9\OneDrive\BiT files\Year One\Semester One\SDV 503\SDV 503 - Assessment 3 -Final Product by Deja Ballard\Clicker Prototype 1\obj\Debug\Clicker_Prototype_1.FrmSettings.resources
+C:\Users\deja9\OneDrive\BiT files\Year One\Semester One\SDV 503\SDV 503 - Assessment 3 -Final Product by Deja Ballard\Clicker Prototype 1\obj\Debug\Clicker_Prototype_1.Resources.resources
+C:\Users\deja9\OneDrive\BiT files\Year One\Semester One\SDV 503\SDV 503 - Assessment 3 -Final Product by Deja Ballard\Clicker Prototype 1\obj\Debug\Clicker Prototype 1.vbproj.GenerateResource.Cache
